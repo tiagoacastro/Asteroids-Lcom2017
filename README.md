@@ -1,18 +1,9 @@
-# LCOM-
-If you are planning on using this as a guide to learn for your own course, do so at your own risk.
+# LcomProject2017
+Final Project for Computer Laboratory, an Informatics and Computing Engineering second year subject
 
-Labs and project of the course LCOM
-Grades of the labs:
-
-lab2: 97/100
-
-lab3: 90/100
-
-lab4: 89/100
-
-lab5: 85/100
-
-
-Final Project Grade: 17,6
-
-
+### Project Infos
+* **Date:** 2nd Year, 1st Semester, 2017/2018
+* **Topic:** Game based on the Asteroid Atari game with some tweaks and based on minix using C
+* **Subject:** Laboratorio de Computadores (LCOM) | Computer Laboratory
+* **Subject Link:** https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399888
+* **In colaboration with:** Antonio Cruz (@AntoniooCruz)
