@@ -1,4 +1,6 @@
 # LCOM-
+If you are planning on using this as a guide to learn for your own course, do so at your own risk.
+
 Labs and project of the course LCOM
 Grades of the labs:
 
