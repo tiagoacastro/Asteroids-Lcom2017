@@ -14,3 +14,5 @@ Final Project for Computer Laboratory, an Informatics and Computing Engineering 
 * **Lab4:** 89/100
 * **Lab5:** 85/100
 * **Final Project Grade:** 17,6
+
+[Project Video](https://www.youtube.com/watch?v=c4B2IO5Uda4)
