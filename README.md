@@ -1,7 +1,7 @@
 # LcomProject2017
 Final Project for Computer Laboratory, an Informatics and Computing Engineering second year subject
 
-### Project Infos
+### Project Info
 * **Date:** 2nd Year, 1st Semester, 2017/2018
 * **Topic:** Game based on the Asteroid Atari game with some tweaks and based on minix using C
 * **Subject:** Laboratorio de Computadores (LCOM) | Computer Laboratory
